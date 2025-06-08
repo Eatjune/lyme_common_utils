@@ -1,0 +1,14 @@
+{
+    "name": "com.eatjune.commonutility",
+    "displayName": "CommonUtility",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "unityRelease": "40f1",
+    "description": "Common Utility",
+    "keywords": ["Utility","Package"],
+    "author": "EatJune",
+    "dependencies":{
+        "com.unity.mathematics": "1.2.6"
+    },
+    "samples": []
+}
