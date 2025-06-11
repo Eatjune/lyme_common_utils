@@ -1,14 +1,18 @@
 {
-    "name": "com.eatjune.commonutils",
-    "displayName": "CommonUtils",
-    "version": "0.0.3",
-    "unity": "2022.3",
-    "unityRelease": "40f1",
-    "description": "Common Utils",
-    "keywords": ["Utils","Package","Unity"],
-    "author": "EatJune",
-    "dependencies":{
-        "com.unity.mathematics": "1.2.6"
-    },
-    "samples": []
+  "name": "com.eatjune.commonutils",
+  "displayName": "Common Utils",
+  "version": "0.0.3",
+  "unity": "2022.3",
+  "unityRelease": "40f1",
+  "description": "Common Utils",
+  "keywords": [
+    "Utils",
+    "Package",
+    "Unity"
+  ],
+  "author": "EatJune",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.6"
+  },
+  "samples": []
 }

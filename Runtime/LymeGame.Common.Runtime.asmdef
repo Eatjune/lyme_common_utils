@@ -1,6 +1,5 @@
 {
-  "name": "commonLib",
-  "rootNamespace": "",
+  "name": "LymeGame.Common.Runtime",
   "references": [
     "Unity.Mathematics"
   ],
