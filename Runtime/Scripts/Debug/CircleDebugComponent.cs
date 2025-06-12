@@ -1,6 +1,5 @@
-﻿using System;
-
-namespace LymeGame.Utils.Common {
+﻿namespace LymeGame.Utils.Common {
+	using System;
 	using System.Collections.Generic;
 	using UnityEngine;
 
